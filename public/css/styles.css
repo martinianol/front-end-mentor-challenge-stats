@@ -94,6 +94,13 @@ footer {
   .main-image {
     min-height: 45vh;
   }
+  .stats-container {
+    display: flex;
+    flex-direction: row;
+    width: 90%;
+    justify-content: space-between;
+    margin-bottom: 0;
+  }
 }
 
 @media (min-width: 1024px) {
