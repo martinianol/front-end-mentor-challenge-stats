@@ -127,7 +127,7 @@ footer {
     border-bottom-right-radius: 10px;
     border-top-right-radius: 10px;
     border-top-left-radius: 0px;
-    height: auto;
+    min-height: 56vh;
   }
   .stats-container {
     display: flex;
